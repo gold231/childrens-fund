@@ -605,3 +605,7 @@ body {
     line-height: 13px;
   }
 }
+/* .desktop {
+  margin-left: -0.7rem;  
+  width: calc(100% + 0.75rem);
+} */
